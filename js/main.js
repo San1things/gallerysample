@@ -45,6 +45,7 @@ if (galleryImages) {
         newPrevBtn.setAttribute("class", "img-btn-prev");
         newPrevBtn.setAttribute("onclick", "changeImg(0)");
         newPrevBtn.style.cssText = "left: " + calcImgToEdge + "px;";
+        // hatodg
       };
     };
   });
